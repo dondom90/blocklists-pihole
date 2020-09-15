@@ -1,0 +1,489 @@
+PiHole - Ad- & Malware Blocklist #2	
+	
+IP		URL				DESCRIPTION
+
+127.0.0.1	quantummetric.com 		# Cydia/Bigboss
+127.0.0.1	cydia.saurik.com.cdngc.net	 # Cydia/Bigboss
+127.0.0.1	production-ultimate-assets.ratecity.com.au 	# NewsCorp
+127.0.0.1	saber.srvcs.tumblr.com 	# Tumblr
+127.0.0.1	fd-fp3.wg1.b.yahoo.com 	# Tumblr
+127.0.0.1	usc.adserver.snapads.com 	# Snapchat
+127.0.0.1	euw.adserver.snapads.com 	# Snapchat
+127.0.0.1	ad-cdn.technoratimedia.com 	# LA Times
+127.0.0.1	content.synapsys.us 	# LA Times
+127.0.0.1	engine.fyber.com 	# Mobile games
+127.0.0.1	yt.moatads.com	
+127.0.0.1	us.intellitxt.com	
+127.0.0.1	evolveplatform.net	
+127.0.0.1	dashboard.evolveplatform.net	
+127.0.0.1	www-googletagmanager.l.google.com	
+127.0.0.1	adservice.google.com.au	
+127.0.0.1	a1.adstore.jp	
+127.0.0.1	ad.fyber.angsrvr.com	
+127.0.0.1	ade.googlesyndication.com	
+127.0.0.1	www.vungle.com	
+127.0.0.1	e5019.e2.akamaiedge.net 	# Vungle
+127.0.0.1	rules.noadblock.org	
+127.0.0.1	wildcard.moatads.com.edgekey.net	
+127.0.0.1	sdk.appsflyer.com	
+127.0.0.1	c0.adalyser.com	
+127.0.0.1	c2.adalyser.com	
+127.0.0.1	c3.adalyser.com	
+127.0.0.1	c5.adalyser.com	
+127.0.0.1	hb.nexage.com	
+127.0.0.1	hbopenbid.pubmatic.com	
+127.0.0.1	ezoic.net	
+127.0.0.1	g.ezoic.net	
+127.0.0.1	acceptable.a-ads.com	
+127.0.0.1	prg.smartadserver.com	
+127.0.0.1	player.adtelligent.com	
+127.0.0.1	hb.adtelligent.com	
+127.0.0.1	outcome-ssp.supersonicads.com	
+127.0.0.1	au.np.adproxy.ndmdhs.com	
+127.0.0.1	au-integration.citrusad.com	
+127.0.0.1	ads.samsung.com	
+127.0.0.1	samsungads.com	
+127.0.0.1	sdk.iad-01.braze.com	
+127.0.0.1	sdk.iad-02.braze.com	
+127.0.0.1	sdk.iad-03.braze.com	
+127.0.0.1	sdk.iad-04.braze.com	
+127.0.0.1	sdk.iad-05.braze.com	
+127.0.0.1	sdk.iad-06.braze.com	
+127.0.0.1	ads-eu.amillionads.com	
+		
+		
+127.0.0.1	coin-hive.com	# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	coinhiveproxy.com	# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	jsecoin.com	# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	crypto-loot.com	# In-browser Cryptocurrency (Bitcoin-like) miners
+		
+		
+127.0.0.1	bannertrack.net	# BlockAdBlock Trackers
+127.0.0.1	serve.bannertrack.net	# BlockAdBlock Trackers
+127.0.0.1	yasni.bannertrack.net	# BlockAdBlock Trackers
+127.0.0.1	adtrackers.net	# BlockAdBlock Trackers
+127.0.0.1	zoover.adtrackers.net	# BlockAdBlock Trackers
+127.0.0.1	serve.adtrackers.net	# BlockAdBlock Trackers
+		
+		
+127.0.0.1	instartlogic.com	# Instart Logic
+127.0.0.1	www.instartlogic.com	# Instart Logic
+127.0.0.1	opencache.com	# Instart Logic
+127.0.0.1	www.opencache.com	# Instart Logic
+127.0.0.1	sdad.guru	# Instart Logic
+127.0.0.1	www.sdad.guru	# Instart Logic
+127.0.0.1	volantix.com	# Instart Logic
+127.0.0.1	www.volantix.com	# Instart Logic
+127.0.0.1	insnw.net	# Instart Logic
+127.0.0.1	www.insnw.ne	# Instart Logic
+127.0.0.1	inscname.net	# Instart Logic
+127.0.0.1	www.inscname.net	# Instart Logic
+127.0.0.1		
+127.0.0.1		
+127.0.0.1		
+127.0.0.1	aax-eu.amazon-adsystem.com	# Ad servers used in German-speaking regions
+127.0.0.1	adnxs.com	# Ad servers used in German-speaking regions
+127.0.0.1	api.amplitude.com	# Ad servers used in German-speaking regions
+127.0.0.1	asadcdn.com	# Ad servers used in German-speaking regions
+127.0.0.1	casper.p7s1.net	# Ad servers used in German-speaking regions
+127.0.0.1	cdn.wbtrk.net	# Ad servers used in German-speaking regions
+127.0.0.1	cs4.wettercomassets.com	# Ad servers used in German-speaking regions
+127.0.0.1	doubleclick.net	# Ad servers used in German-speaking regions
+127.0.0.1	fhm.degearwom.de	# Ad servers used in German-speaking regions
+127.0.0.1	geid.wbtrk.net	# Ad servers used in German-speaking regions
+127.0.0.1	googlesyndication.com	# Ad servers used in German-speaking regions
+127.0.0.1	googletagservices.com	# Ad servers used in German-speaking regions
+127.0.0.1	iframe.chefkoch.deioam.de	# Ad servers used in German-speaking regions
+127.0.0.1	pagead2.googlesyndication.com	# Ad servers used in German-speaking regions
+127.0.0.1	pixel.adsafeprotected.com	# Ad servers used in German-speaking regions
+127.0.0.1	promoted.soundcloud.com	# Ad servers used in German-speaking regions
+127.0.0.1	pv.medialead.de	# Ad servers used in German-speaking regions
+127.0.0.1	securepubads.g.doubleclick.net	# Ad servers used in German-speaking regions
+127.0.0.1	wetter.pushwoosh.com	# Ad servers used in German-speaking regions
+127.0.0.1		
+127.0.0.1		
+127.0.0.1	deloo.de	
+127.0.0.1	demandbase.com	
+127.0.0.1	depilflash.tv	
+127.0.0.1	di1.shopping.com	
+127.0.0.1	dialerporn.com	
+127.0.0.1	didtheyreadit.com	
+127.0.0.1	direct-xxx-access.com	
+127.0.0.1	directaclick.com	
+127.0.0.1	directivepub.com	
+127.0.0.1	directleads.com	
+127.0.0.1	directorym.com	
+127.0.0.1	directtrack.com	
+127.0.0.1	discountclick.com	
+127.0.0.1	displayadsmedia.com	
+127.0.0.1	displaypagerank.com	
+127.0.0.1	dist.belnk.com	
+127.0.0.1	dmtracker.com	
+127.0.0.1	dmtracking.alibaba.com	
+127.0.0.1	dmtracking2.alibaba.com	
+127.0.0.1	dnads.directnic.com	
+127.0.0.1	domaining.in	
+127.0.0.1	domainsponsor.com	
+127.0.0.1	domainsteam.de	
+127.0.0.1	domdex.com	
+127.0.0.1	dotomi.com	
+127.0.0.1	doubleclick.com	
+127.0.0.1	doubleclick.de	
+127.0.0.1	doubleclick.net	
+127.0.0.1	doublepimp.com	
+127.0.0.1	drawbrid.ge	
+127.0.0.1	drumcash.com	
+127.0.0.1	dynamic.fmpub.net	
+127.0.0.1	e-adimages.scrippsnetworks.com	
+127.0.0.1	e-bannerx.com	
+127.0.0.1	e-debtconsolidation.com	
+127.0.0.1	e-m.fr	
+127.0.0.1	e-n-t-e-r-n-e-x.com	
+127.0.0.1	e-planning.net	
+127.0.0.1	e.kde.cz	
+127.0.0.1	eadexchange.com	
+127.0.0.1	earnify.com	
+127.0.0.1	eas.almamedia.fi	
+127.0.0.1	easyhits4u.com	
+127.0.0.1	ebayadvertising.com	
+127.0.0.1	ebocornac.com	
+127.0.0.1	ebuzzing.com	
+127.0.0.1	ecircle-ag.com	
+127.0.0.1	eclick.vn	
+127.0.0.1	eclickz.com	
+127.0.0.1	ecoupons.com	
+127.0.0.1	edgeio.com	
+127.0.0.1	effectivemeasure.com	
+127.0.0.1	effectivemeasure.net	
+127.0.0.1	ehealthcaresolutions.com	
+127.0.0.1	eiv.baidu.com	
+127.0.0.1	elitedollars.com	
+127.0.0.1	elitetoplist.com	
+127.0.0.1	emarketer.com	
+127.0.0.1	emediate.dk	
+127.0.0.1	emediate.eu	
+127.0.0.1	emonitor.takeit.cz	
+127.0.0.1		
+127.0.0.1	t-privat.de	
+127.0.0.1	tradedecor.ru	
+127.0.0.1	trade-energo.com	
+127.0.0.1	tradetoolsbazaar.com	
+127.0.0.1	training-equipment.net	
+127.0.0.1	train.shizutetsu.co.jp	
+127.0.0.1	transformerspaintingandremodeling.com	
+127.0.0.1	treasureisland.com.my	
+127.0.0.1	trendy-chirurgiaplastyczna.pl	
+127.0.0.1	triangolodelbenessere.it	
+127.0.0.1	trillianfiredesign.com	
+127.0.0.1	trilliumindustrialsafety.com	
+127.0.0.1	trimunlexuan.vn	
+127.0.0.1	trinitylight.org	
+127.0.0.1	triofenix-pt.com	
+127.0.0.1	trochzoposotocon.tk	
+127.0.0.1	trouwcheques.nl	
+127.0.0.1	truemansmoke.com	
+127.0.0.1	trustclinics-eg.com	
+127.0.0.1	tskgear.com	
+127.0.0.1	turkistan-kazigurt.gov.kz	
+127.0.0.1	tuttimattieg.com	
+127.0.0.1	twinkleleverages.com	
+127.0.0.1	twistercasino.nl	
+127.0.0.1	tytsolutions.com	
+127.0.0.1	u4rl.com	
+127.0.0.1	uberabaplacas.com.br	
+127.0.0.1	ubsall.com	
+127.0.0.1	ubungotag.or.tz	
+127.0.0.1	ucarecdn.com	
+127.0.0.1	ucdv.org	
+127.0.0.1	ucuzrehber.com	
+127.0.0.1	uecatastro.org	
+127.0.0.1	ufabet168168.329263.com	
+127.0.0.1	ufc.benfeitoria.com	
+127.0.0.1	uhlenbusch.info	
+127.0.0.1	ultravcn.com	
+127.0.0.1	ultrawellmultiservices.com	
+127.0.0.1	umadacart.com	
+127.0.0.1	ummetciftligi.com	
+127.0.0.1	underthepresserfoot.com	
+127.0.0.1	unifutures.net	
+127.0.0.1	uniqueappsolution.com	
+127.0.0.1	uniquehindunames.com	
+127.0.0.1	uniquewv.com	
+127.0.0.1	universalleadersclub.com	
+127.0.0.1	upcountrypsychiatry.com	
+127.0.0.1	upendigroup.com	
+127.0.0.1	uppababy.pro	
+127.0.0.1	urgentcareoffairfield.com	
+127.0.0.1	usitausinagem.com.br	
+127.0.0.1	utopiapavingandpools.co.za	
+127.0.0.1	uyen.vn	
+127.0.0.1	vaeqpu.329263.com	
+127.0.0.1	vaidenfarmsupply.org	
+127.0.0.1	vakantiealicante.nl	
+127.0.0.1	vakantie-bodrum.nl	
+127.0.0.1	vakantieshanghai.nl	
+127.0.0.1	valesports.com.br	
+127.0.0.1	valiance.uk	
+127.0.0.1	valleydancetheatre.net	
+127.0.0.1	valueconsultantsgroup.com	
+127.0.0.1	vanbrast.com	
+127.0.0.1	vanessahu.com	
+127.0.0.1	variathfamily.in	
+127.0.0.1	varivoda.com	
+127.0.0.1	vatar.ca	
+127.0.0.1	vbupholstery.com	
+127.0.0.1	vbwebconsultant.com	
+127.0.0.1	vedconsult.com	
+127.0.0.1	vendasdesaude.com.br	
+127.0.0.1	vermasiyaahi.com	
+127.0.0.1	vetersflowers.nl	
+127.0.0.1	viagra-gud.ru	
+127.0.0.1	viagramed.ru	
+127.0.0.1	viajesexclusivos.club	
+127.0.0.1	vibicloud.com	
+127.0.0.1	videoservicesboise.com	
+127.0.0.1	vidriodecoracion.com	
+127.0.0.1	vienthammynamseoul.com	
+127.0.0.1	villa-lotta.de	
+127.0.0.1	villatera.com	
+127.0.0.1	villette45.com	
+127.0.0.1	vinfast3smientrung.com	
+127.0.0.1	vintorg.spb.ru	
+127.0.0.1	vinvoracing.com	
+127.0.0.1	viperseo.co	
+127.0.0.1	vip.recommendedtoyoo.com	
+127.0.0.1	virtualplus.eu	
+127.0.0.1	virustreatments.empeeevents.com	
+127.0.0.1	visavis.com.pl	
+127.0.0.1	visitbosnia.nl	
+127.0.0.1	visitcova.com	
+127.0.0.1	visscorehab.wheelchairindia.com	
+127.0.0.1	vistanewsite.ir	
+127.0.0.1	visuseguros.com	
+127.0.0.1	vitaliberata.nl	
+127.0.0.1	vitaxhospitality.com	
+127.0.0.1	vitinhphamgia.com	
+127.0.0.1	vmais.net	
+127.0.0.1	volvorotterdam.nl	
+127.0.0.1	voxbal.com	
+127.0.0.1	voyageur.sisnettdesign.com	
+127.0.0.1	vreugdenhil.cw	
+127.0.0.1	vuzzi.com	
+127.0.0.1	waaberiglobal.com	
+127.0.0.1	wahat-apps.com	
+127.0.0.1	wakan-tanka.org	
+127.0.0.1	wasilewski-online.de	
+127.0.0.1	waterosmo.com	
+127.0.0.1	watersondevelopments.com	
+127.0.0.1	watertreatmentbyculligan.com	
+127.0.0.1	waylogic.pt	
+127.0.0.1	wearbranding.com	
+127.0.0.1	wearemet.site	
+127.0.0.1	webcollectionall.com	
+127.0.0.1	webdesigntrainingcourse.co.uk	
+127.0.0.1	webstring.in	
+127.0.0.1	weekendopholdogkroophold.dk	
+127.0.0.1	wegry.galeco.pl	
+127.0.0.1	weierstrass.de	
+127.0.0.1	weixin.lefu.co	
+127.0.0.1	welawultrading.com	
+127.0.0.1	welcomevladivostok.com	
+127.0.0.1	welshstructures.com	
+127.0.0.1	werneckgomes.com.br	
+127.0.0.1	wernergansbergen.de	
+127.0.0.1	westcoastnut.com	
+127.0.0.1	westend-zoo.de	
+127.0.0.1	westerndata.com.au	
+127.0.0.1	westore.me	
+127.0.0.1	westvac.com	
+127.0.0.1	wetzi.de	
+127.0.0.1	wheelchairindore.com	
+127.0.0.1	whipappeal.com	
+127.0.0.1	whitedovecare.com	
+127.0.0.1	white-on-rice.com	
+127.0.0.1	whoppingcreativestudios.com	
+127.0.0.1	wiblitz6.com	
+127.0.0.1	wiki.alonsofontanero.com	
+127.0.0.1	williamsriverholidaypark.com	
+127.0.0.1	wiltshirejoinery.co.uk	
+127.0.0.1	winder.ua	
+127.0.0.1	windowcity.org	
+127.0.0.1	windowsgadgets.club	
+127.0.0.1	windup.net.br	
+127.0.0.1	wingscooling.com	
+127.0.0.1	winkelpandlochem.nl	
+127.0.0.1	wintertongarvey.com	
+127.0.0.1	wital-logistics.de	
+127.0.0.1	woah90s.com	
+127.0.0.1	womensvoicesmagazine.com	
+127.0.0.1	woodworkingdm.com	
+127.0.0.1	wordpress.eventy.co.il	
+127.0.0.1	wordpresstemasi.org	
+127.0.0.1	workerscomphelpnetwork.com	
+127.0.0.1	worldcrypto.shop	
+127.0.0.1	worldpile.com	
+127.0.0.1	worldsburgers.com	
+127.0.0.1	wp.banyannaples.com	
+127.0.0.1	wp.moon.ponstars.crc-it.nl	
+127.0.0.1	wp.regalporn.com	
+127.0.0.1	wp.share-icu.de	
+127.0.0.1	wptransmissions.com	
+127.0.0.1	wrrodrigo.com	
+127.0.0.1	wsdychinese2onlyywalkaloneinlifev24nql.duckdns.org	
+127.0.0.1	wsdysmlfleconsultationlifesecurecen6gla.duckdns.org	
+127.0.0.1	wsmorgan.com	
+127.0.0.1	www.2secure.co	
+127.0.0.1	www8.ir	
+127.0.0.1	www.999102com.cn	
+127.0.0.1	www.acquapubblicasabina.it	
+127.0.0.1	www.alfanargents.com	
+127.0.0.1	www.allwellsell.com	
+127.0.0.1	www.alox-media.it	
+127.0.0.1	www.amodoutours.com	
+127.0.0.1	www.arenproperty.com	
+127.0.0.1	www.armonica.cl	
+127.0.0.1	www.arredosocial.it	
+127.0.0.1	www.arsartisceccarelli.it	
+127.0.0.1	www.asadedektor.com	
+127.0.0.1	www.awservicesuk.co.uk	
+127.0.0.1	www.azenzatowers.com	
+127.0.0.1	www.barzdigital.com	
+127.0.0.1	www.bestminesweeper.com	
+127.0.0.1	www.bialaperelka.pl	
+127.0.0.1	www.biocosmeticashop.com	
+127.0.0.1	www.bitfunx.com	
+127.0.0.1	www.blog.helvam.com	
+127.0.0.1	www.canaan.io	
+127.0.0.1	www.canlitvim.com	
+127.0.0.1	www.cavalese.com.br	
+127.0.0.1	www.caveco.it	
+127.0.0.1	www.centroananda.eu	
+127.0.0.1	www.chapadaomaquinas.com	
+127.0.0.1	www.cheriyilbuilders.com	
+127.0.0.1	www.chuquanba.com	
+127.0.0.1	www.cinecircolomauriziogrande.it	
+127.0.0.1	www.cinnamoncreations.com.au	
+127.0.0.1	www.circoloippicovalcesano.it	
+127.0.0.1	www.citycar-altenstadt.de	
+127.0.0.1	www.cleanshower.com.ua	
+127.0.0.1	www.clicknit.com	
+127.0.0.1	www.comeandpick.com	
+127.0.0.1	www.commercialistichieti.it	
+127.0.0.1	www.completeshs.com	
+127.0.0.1	www.corazondelcielo.mx	
+127.0.0.1	www.cynanelectrical.co.uk	
+127.0.0.1	www.dariusconstruction.com	
+127.0.0.1	www.decar-auto.it	
+127.0.0.1	www.decitum.com	
+127.0.0.1	www.dellapostalight.it	
+127.0.0.1	www.dentixdentalcare.com	
+127.0.0.1	www.dingowebsites.com	
+127.0.0.1	www.divinetechnologyservices.com	
+127.0.0.1	www.dofasoo.com	
+127.0.0.1	www.dotpay.id	
+127.0.0.1	www.dr-cold.com	
+127.0.0.1	www.duplichiamo.it	
+127.0.0.1	www.dupmaster.net	
+127.0.0.1	www.dzyzz.cn	
+127.0.0.1	www.ecfishin.com	
+127.0.0.1	www.elcast.it	
+127.0.0.1	www.eminentalarm.nl	
+127.0.0.1	www.energyplusjuice.ir	
+127.0.0.1	www.eposar.com.ar	
+127.0.0.1	www.ezratty.co.il	
+127.0.0.1	www.fimi.net	
+127.0.0.1	www.finlite.com.ua	
+127.0.0.1	www.finsolprinting.it	
+127.0.0.1	www.fiveabb.com	
+127.0.0.1	www.flexoarquitectura.com	
+127.0.0.1	www.flipzio.com	
+127.0.0.1	www.foreveramericabrands.com	
+127.0.0.1	www.foxfennecs.com	
+127.0.0.1	www.fulldimensionit.com	
+127.0.0.1	www.gainsdirectory.com	
+127.0.0.1	www.gcsconsulting.it	
+127.0.0.1	www.gisvarna.com	
+127.0.0.1	www.goodhandsappliances.com	
+127.0.0.1	www.gopala.es	
+127.0.0.1	www.guer-immobilier.com	
+127.0.0.1	www.h2obbs.cn	
+127.0.0.1	www.hairlineunisexsalon.com	
+127.0.0.1	www.huangyifan.com	
+127.0.0.1	www.humblebeginnings.in	
+127.0.0.1	www.hygienicwallcladding.com	
+127.0.0.1	www.icdomenicobernardini.gov.it	
+127.0.0.1	www.inlingua-bourgogne.com	
+127.0.0.1	www.instek.no	
+127.0.0.1	www.internaut.in	
+127.0.0.1	www.intiming.it	
+127.0.0.1	www.iprotocolsolutions.com	
+127.0.0.1	www.ipsen.cn	
+127.0.0.1	www.jahandata.com	
+127.0.0.1	www.jets4pets.com	
+127.0.0.1	www.jovetech.com.my	
+127.0.0.1	www.kimo.az	
+127.0.0.1	www.kunstefan.de	
+127.0.0.1	www.lancinitinteggiature.it	
+127.0.0.1	www.laportadelcel.com	
+127.0.0.1	www.leasingacceleration.com	
+127.0.0.1	www.lelamantin.fr	
+127.0.0.1	www.loodgieterjoost.be	
+127.0.0.1	www.lopezadri.com	
+127.0.0.1	www.luxurygt.com	
+127.0.0.1	www.macassar900.com	
+127.0.0.1	www.madarhd.co	
+127.0.0.1	www.mayanmonkey.es	
+127.0.0.1	www.mcsgroup.co	
+127.0.0.1	www.mecbox.cn	
+127.0.0.1	www.metallbau-fetzer.de	
+127.0.0.1	www.mfpburundi.bi	
+127.0.0.1	www.miguelimaz.com	
+127.0.0.1	www.mike-sanftenberg.de	
+127.0.0.1	www.ministella.com	
+127.0.0.1	www.mira-blau.de	
+127.0.0.1	www.mjplantbased.com	
+127.0.0.1	www.mkt74.ru	
+127.0.0.1	www.myanmarseilone.com	
+127.0.0.1	www.myghanaagent.com	
+127.0.0.1	www.nagsagroup.com	
+127.0.0.1	www.nanogagliato.com	
+127.0.0.1	www.netfeed.club	
+127.0.0.1	www.nilkanthglobal.com	
+127.0.0.1	www.nov-electro.com	
+127.0.0.1	www.nuovaitaldent.it	
+127.0.0.1	www.oakeno.com	
+127.0.0.1	www.officeautomationltd.com	
+127.0.0.1	www.oisoc.com	
+127.0.0.1	www.oliverb.it	
+127.0.0.1	www.omitkyspisar.cz	
+127.0.0.1	www.orjinalbilgisayar.com	
+127.0.0.1	www.oxcssa.org.uk	
+127.0.0.1	www.pacificstarimpex.com	
+127.0.0.1	www.patentguards.com	
+127.0.0.1	www.patrickchan-hk.net	
+127.0.0.1	www.phoenix-internet.com	
+127.0.0.1	www.piton.tech	
+127.0.0.1	www.plastas.lt	
+127.0.0.1	www.plelan-le-grand-immobilier.com	
+127.0.0.1	www.portapia167.com	
+127.0.0.1	www.printoholic.com	
+127.0.0.1	www.python1314.com	
+127.0.0.1	www.qelie.com	
+127.0.0.1	www.rete-sicurezza.com	
+127.0.0.1	www.ricklambemusic.co.uk	
+127.0.0.1	www.riddhidisplay.com	
+127.0.0.1	funeducation.com	
+127.0.0.1	iq-research.info	
+127.0.0.1	iq-test-online.org	
+127.0.0.1	iq-test.co.uk	
+127.0.0.1	iqtest.co.uk	
+127.0.0.1	iqtest.com	
+127.0.0.1	iqtestnow.org	
+127.0.0.1	iqtestonline24.com	
+127.0.0.1	test-iq.org	
+127.0.0.1	officialiqtests.com	
+127.0.0.1		
+127.0.0.1		
+127.0.0.1		
+127.0.0.1		
+127.0.0.1		
