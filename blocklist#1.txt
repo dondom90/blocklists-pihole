@@ -1,6 +1,7 @@
-PiHole - Ad- & Malware Blocklist #1	
-	
-IP		URL		DESCRIPTION
+#PiHole - Ad- & Malware Blocklist #1	
+#15-09-2020	//	dondom90
+
+#IP		#URL		#DESCRIPTION
 
 127.0.0.1	rz261.cn	
 127.0.0.1	mq.d6s3mov.cn	
