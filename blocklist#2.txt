@@ -1,17 +1,21 @@
-PiHole - Ad- & Malware Blocklist #2	
-	
-IP		URL				DESCRIPTION
+#PiHole - Ad- & Malware Blocklist #2
+#15-09-2020	
 
-127.0.0.1	quantummetric.com 		# Cydia/Bigboss
-127.0.0.1	cydia.saurik.com.cdngc.net	 # Cydia/Bigboss
+#dondom90#
+
+#		#						#DESCRIPTION
+
+
+127.0.0.1	quantummetric.com 				# Cydia/Bigboss
+127.0.0.1	cydia.saurik.com.cdngc.net	 		# Cydia/Bigboss
 127.0.0.1	production-ultimate-assets.ratecity.com.au 	# NewsCorp
-127.0.0.1	saber.srvcs.tumblr.com 	# Tumblr
-127.0.0.1	fd-fp3.wg1.b.yahoo.com 	# Tumblr
-127.0.0.1	usc.adserver.snapads.com 	# Snapchat
-127.0.0.1	euw.adserver.snapads.com 	# Snapchat
-127.0.0.1	ad-cdn.technoratimedia.com 	# LA Times
-127.0.0.1	content.synapsys.us 	# LA Times
-127.0.0.1	engine.fyber.com 	# Mobile games
+127.0.0.1	saber.srvcs.tumblr.com 				# Tumblr
+127.0.0.1	fd-fp3.wg1.b.yahoo.com 				# Tumblr
+127.0.0.1	usc.adserver.snapads.com 			# Snapchat
+127.0.0.1	euw.adserver.snapads.com 			# Snapchat
+127.0.0.1	ad-cdn.technoratimedia.com 			# LA Times
+127.0.0.1	content.synapsys.us 				# LA Times
+127.0.0.1	engine.fyber.com 				# Mobile games
 127.0.0.1	yt.moatads.com	
 127.0.0.1	us.intellitxt.com	
 127.0.0.1	evolveplatform.net	
@@ -22,7 +26,7 @@ IP		URL				DESCRIPTION
 127.0.0.1	ad.fyber.angsrvr.com	
 127.0.0.1	ade.googlesyndication.com	
 127.0.0.1	www.vungle.com	
-127.0.0.1	e5019.e2.akamaiedge.net 	# Vungle
+127.0.0.1	e5019.e2.akamaiedge.net 			# Vungle
 127.0.0.1	rules.noadblock.org	
 127.0.0.1	wildcard.moatads.com.edgekey.net	
 127.0.0.1	sdk.appsflyer.com	
@@ -52,54 +56,54 @@ IP		URL				DESCRIPTION
 127.0.0.1	ads-eu.amillionads.com	
 		
 		
-127.0.0.1	coin-hive.com	# In-browser Cryptocurrency (Bitcoin-like) miners
-127.0.0.1	coinhiveproxy.com	# In-browser Cryptocurrency (Bitcoin-like) miners
-127.0.0.1	jsecoin.com	# In-browser Cryptocurrency (Bitcoin-like) miners
-127.0.0.1	crypto-loot.com	# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	coin-hive.com					# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	coinhiveproxy.com				# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	jsecoin.com					# In-browser Cryptocurrency (Bitcoin-like) miners
+127.0.0.1	crypto-loot.com					# In-browser Cryptocurrency (Bitcoin-like) miners
 		
 		
-127.0.0.1	bannertrack.net	# BlockAdBlock Trackers
-127.0.0.1	serve.bannertrack.net	# BlockAdBlock Trackers
-127.0.0.1	yasni.bannertrack.net	# BlockAdBlock Trackers
-127.0.0.1	adtrackers.net	# BlockAdBlock Trackers
-127.0.0.1	zoover.adtrackers.net	# BlockAdBlock Trackers
-127.0.0.1	serve.adtrackers.net	# BlockAdBlock Trackers
+127.0.0.1	bannertrack.net					# BlockAdBlock Trackers
+127.0.0.1	serve.bannertrack.net				# BlockAdBlock Trackers
+127.0.0.1	yasni.bannertrack.net				# BlockAdBlock Trackers
+127.0.0.1	adtrackers.net					# BlockAdBlock Trackers
+127.0.0.1	zoover.adtrackers.net				# BlockAdBlock Trackers
+127.0.0.1	serve.adtrackers.net				# BlockAdBlock Trackers
 		
 		
-127.0.0.1	instartlogic.com	# Instart Logic
-127.0.0.1	www.instartlogic.com	# Instart Logic
-127.0.0.1	opencache.com	# Instart Logic
-127.0.0.1	www.opencache.com	# Instart Logic
-127.0.0.1	sdad.guru	# Instart Logic
-127.0.0.1	www.sdad.guru	# Instart Logic
-127.0.0.1	volantix.com	# Instart Logic
-127.0.0.1	www.volantix.com	# Instart Logic
-127.0.0.1	insnw.net	# Instart Logic
-127.0.0.1	www.insnw.ne	# Instart Logic
-127.0.0.1	inscname.net	# Instart Logic
-127.0.0.1	www.inscname.net	# Instart Logic
+127.0.0.1	instartlogic.com				# Instart Logic
+127.0.0.1	www.instartlogic.com				# Instart Logic
+127.0.0.1	opencache.com					# Instart Logic
+127.0.0.1	www.opencache.com				# Instart Logic
+127.0.0.1	sdad.guru					# Instart Logic
+127.0.0.1	www.sdad.guru					# Instart Logic
+127.0.0.1	volantix.com					# Instart Logic
+127.0.0.1	www.volantix.com				# Instart Logic
+127.0.0.1	insnw.net					# Instart Logic
+127.0.0.1	www.insnw.ne					# Instart Logic
+127.0.0.1	inscname.net					# Instart Logic
+127.0.0.1	www.inscname.net				# Instart Logic
 127.0.0.1		
 127.0.0.1		
 127.0.0.1		
-127.0.0.1	aax-eu.amazon-adsystem.com	# Ad servers used in German-speaking regions
-127.0.0.1	adnxs.com	# Ad servers used in German-speaking regions
-127.0.0.1	api.amplitude.com	# Ad servers used in German-speaking regions
-127.0.0.1	asadcdn.com	# Ad servers used in German-speaking regions
-127.0.0.1	casper.p7s1.net	# Ad servers used in German-speaking regions
-127.0.0.1	cdn.wbtrk.net	# Ad servers used in German-speaking regions
-127.0.0.1	cs4.wettercomassets.com	# Ad servers used in German-speaking regions
-127.0.0.1	doubleclick.net	# Ad servers used in German-speaking regions
-127.0.0.1	fhm.degearwom.de	# Ad servers used in German-speaking regions
-127.0.0.1	geid.wbtrk.net	# Ad servers used in German-speaking regions
-127.0.0.1	googlesyndication.com	# Ad servers used in German-speaking regions
-127.0.0.1	googletagservices.com	# Ad servers used in German-speaking regions
-127.0.0.1	iframe.chefkoch.deioam.de	# Ad servers used in German-speaking regions
-127.0.0.1	pagead2.googlesyndication.com	# Ad servers used in German-speaking regions
-127.0.0.1	pixel.adsafeprotected.com	# Ad servers used in German-speaking regions
-127.0.0.1	promoted.soundcloud.com	# Ad servers used in German-speaking regions
-127.0.0.1	pv.medialead.de	# Ad servers used in German-speaking regions
-127.0.0.1	securepubads.g.doubleclick.net	# Ad servers used in German-speaking regions
-127.0.0.1	wetter.pushwoosh.com	# Ad servers used in German-speaking regions
+127.0.0.1	aax-eu.amazon-adsystem.com			# Ad servers used in German-speaking regions
+127.0.0.1	adnxs.com					# Ad servers used in German-speaking regions
+127.0.0.1	api.amplitude.com				# Ad servers used in German-speaking regions
+127.0.0.1	asadcdn.com					# Ad servers used in German-speaking regions
+127.0.0.1	casper.p7s1.net					# Ad servers used in German-speaking regions
+127.0.0.1	cdn.wbtrk.net					# Ad servers used in German-speaking regions
+127.0.0.1	cs4.wettercomassets.com				# Ad servers used in German-speaking regions
+127.0.0.1	doubleclick.net					# Ad servers used in German-speaking regions
+127.0.0.1	fhm.degearwom.de				# Ad servers used in German-speaking regions
+127.0.0.1	geid.wbtrk.net					# Ad servers used in German-speaking regions
+127.0.0.1	googlesyndication.com				# Ad servers used in German-speaking regions
+127.0.0.1	googletagservices.com				# Ad servers used in German-speaking regions
+127.0.0.1	iframe.chefkoch.deioam.de			# Ad servers used in German-speaking regions
+127.0.0.1	pagead2.googlesyndication.com			# Ad servers used in German-speaking regions
+127.0.0.1	pixel.adsafeprotected.com			# Ad servers used in German-speaking regions
+127.0.0.1	promoted.soundcloud.com				# Ad servers used in German-speaking regions
+127.0.0.1	pv.medialead.de					# Ad servers used in German-speaking regions
+127.0.0.1	securepubads.g.doubleclick.net			# Ad servers used in German-speaking regions
+127.0.0.1	wetter.pushwoosh.com				# Ad servers used in German-speaking regions
 127.0.0.1		
 127.0.0.1		
 127.0.0.1	deloo.de	
@@ -482,8 +486,4 @@ IP		URL				DESCRIPTION
 127.0.0.1	iqtestonline24.com	
 127.0.0.1	test-iq.org	
 127.0.0.1	officialiqtests.com	
-127.0.0.1		
-127.0.0.1		
-127.0.0.1		
-127.0.0.1		
-127.0.0.1		
+		
